@@ -166,7 +166,7 @@ Github: https://github.com/zoltanmihaly/ingreetients
 ## CU Rent
 
 Jaewon Sim (js2689) - iOS    
-Eileen Cheong (eyc47) - iOS    
+Eileen Cheong (eyc47) - iOS  
 Jonathan Pang (jp2268) - Backend    
 Will Ostlund (wjo33) - Backend   
 
@@ -176,7 +176,6 @@ Github: https://github.com/jaewonsim/CURent
 
 Henry Tso (ht372) - iOS / Backend    
 Hye Won Kim (hk659) - Design  
-
 Manish Saha (ms3236) - Backend    
 Richard Yu (ry275) - iOS    
 
